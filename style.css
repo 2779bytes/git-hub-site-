@@ -63,3 +63,10 @@ h1{
     font-optical-sizing: auto;
     margin-top: 20px;
 }
+.competências{
+    text-decoration: none;
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    cursor: n;
+}
