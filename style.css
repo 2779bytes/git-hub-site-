@@ -52,3 +52,14 @@ h3 {
     font-optical-sizing: auto;
     margin-left: 20px;
 }
+.filmes img{
+    width: 200px;
+    height: 300px;
+    padding-left: 50px;
+    margin-top: 80px;
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    margin-top: 20px;
+}
