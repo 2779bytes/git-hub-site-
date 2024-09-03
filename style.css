@@ -7,6 +7,8 @@
     align-items: center;
     border-radius: 20px;
     margin-top: 30px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
 }
 
 h1 {
@@ -23,6 +25,8 @@ h1 {
 .texto {
     display: flex;
     flex-direction: column;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
 }
 
 .primeiraparte {
@@ -31,4 +35,20 @@ h1 {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     margin-top: 20px;
     border-radius: 20px;
+}
+
+.momentos-importantes img {
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-top: 250px;
+    margin-left: 20px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    margin-left: 20px;
 }
