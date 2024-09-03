@@ -68,5 +68,10 @@ h1{
     color: black;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    cursor: n;
+}
+.TecnoSphere img{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
 }
